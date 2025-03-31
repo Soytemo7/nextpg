@@ -15,6 +15,8 @@
 // git status
 // git add .
 // git commit -m "first commit"
+// git remote add origin https://github.com/Soytemo7/nextpg.git
+// git push -u origin main
 
 export default function App() {
   return (

@@ -18,6 +18,13 @@
 // git remote add origin https://github.com/Soytemo7/nextpg.git
 // git push -u origin main
 
+// modificaciones
+// git add .
+// git commit -m "modificaciones"
+// git push origin main
+
+// npx prisma db push
+
 export default function App() {
   return (
     <div>
